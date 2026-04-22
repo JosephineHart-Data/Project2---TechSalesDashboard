@@ -212,6 +212,8 @@ filtering one updates the entire dashboard dynamically.
 
 ## Dashboard Preview
 
+![Dashboard Overview](https://github.com/JosephineHart-Data/Project2---TechSalesDashboard/blob/main/Screenshot%202026-04-20%20135627.png?raw=true
+
 
 
 
